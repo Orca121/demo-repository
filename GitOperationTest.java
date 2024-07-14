@@ -12,6 +12,7 @@ public class GitOperationTest {
     public static void main(String[] args) {
         System.out.println("This is operation 1.");
         System.out.println("This is operation 2.");
+        System.out.println("This is operation 3.");
         System.out.println("This is operation 3 from working laptop.");
     }
 }
