@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 /**
  * @projectName: demo-repository
  * @package: PACKAGE_NAME
@@ -14,5 +16,7 @@ public class GitOperationTest {
         System.out.println("This is operation 2.");
         System.out.println("This is operation 3.");
         System.out.println("This is operation 3 from working laptop.");
+        System.out.println("This is operation 4 from working laptop.");
+        System.out.println("This is operation 5 from working laptop.");
     }
 }
